@@ -9,7 +9,7 @@
 # 程式的使用方式：
 這個project的程式是以函數(function)的形式來撰寫, 只要給輸入引數(input argument)一個數值, 就能把正確的答案輸出.
 
-他的使用方式是在MATLAB平台上的command window 輸入：
+它的使用方式是在MATLAB平台上的command window 輸入：
 
 Project16(350)就可得到 1^1+2^2+3^3+...+350^350 的小數點前十位數字.
 
