@@ -7,7 +7,7 @@
 9110846700
 
 # 程式的使用方式：
-這個project的程式是以函數(function)的形式來撰寫, 只要給輸入引數(input argument)一個數值, 就能把正確的答案說出.
+這個project的程式是以函數(function)的形式來撰寫, 只要給輸入引數(input argument)一個數值, 就能把正確的答案輸出.
 
 他的使用方式是在MATLAB平台上的command window 輸入：
 
