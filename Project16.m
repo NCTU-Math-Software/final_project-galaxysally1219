@@ -1,4 +1,4 @@
-function Project16(n)
+function (n)
     % 有一組定理是:(1):(a+b)%c=(a%c+b%c)%c。(2)(a*b)%c=(a%c*b%c)%c。
     sum = uint64(0);                       % uint64 是類似C++的 unsigned long long int。
     sum10 = uint64(0);
